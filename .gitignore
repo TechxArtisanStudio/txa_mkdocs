@@ -1,0 +1,5 @@
+mkdocs_venv
+.venv
+.DS_Store
+Pipfile
+Pipfile.lock
